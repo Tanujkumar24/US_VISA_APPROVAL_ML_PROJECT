@@ -4,9 +4,6 @@ WORKDIR /app
 
 COPY . /app
 
-# Install system dependencies (if any)
-# RUN apt-get update && apt-get install -y <package-name>
-
-RUN pip install -r requirements.txt -v
+RUN pip install -r requirements.txt 
 
 CMD ["python3", "app.py"]
