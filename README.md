@@ -1,5 +1,5 @@
-# US_VISA_APPROVAL_ML_PROJECT
 # US-Visa-Approval-Prediction
+An end-to-end machine learning system that predicts U.S. visa approval outcomes using applicant and employer data, deployed via FastAPI with CI/CD integration for seamless updates.
 
 ## Live matarials docs
 
