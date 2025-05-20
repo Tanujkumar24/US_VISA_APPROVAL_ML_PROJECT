@@ -5,6 +5,15 @@
 
 [link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
 
+# Screenshots
+![ecr](https://github.com/Tanujkumar24/US_VISA_APPROVAL_ML_PROJECT/blob/main/ecr.png)
+![s3bucket](https://github.com/Tanujkumar24/US_VISA_APPROVAL_ML_PROJECT/blob/main/s3bucket.png)
+![result](https://github.com/Tanujkumar24/US_VISA_APPROVAL_ML_PROJECT/blob/main/result.png)
+![result1](https://github.com/Tanujkumar24/US_VISA_APPROVAL_ML_PROJECT/blob/main/result1.png)
+![result2](https://github.com/Tanujkumar24/US_VISA_APPROVAL_ML_PROJECT/blob/main/reslut2.png)
+![result3](https://github.com/Tanujkumar24/US_VISA_APPROVAL_ML_PROJECT/blob/main/result3.png)
+![gitActions](https://github.com/Tanujkumar24/US_VISA_APPROVAL_ML_PROJECT/blob/main/gitActions.png)
+
 
 ## Git commands
 
